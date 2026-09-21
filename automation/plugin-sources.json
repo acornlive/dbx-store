@@ -80,6 +80,11 @@
       "repository": "tenltrs/dbx-calendar",
       "metadataPath": ".dbx-store.json",
       "autoUpdate": true
+    },
+    {
+      "repository": "acornlive/dbx-plugin-json-pretty",
+      "metadataPath": ".dbx-store.json",
+      "autoUpdate": true
     }
   ]
 }
